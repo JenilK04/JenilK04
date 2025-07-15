@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JenilK04
 - 👀 I’m interested in App Development,Software Development
-- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on any Open source Project According to My Interest because I want develope my skills
 - 📫 How to reach me
 - My Email: kovadiyajenil11@gmail.com
